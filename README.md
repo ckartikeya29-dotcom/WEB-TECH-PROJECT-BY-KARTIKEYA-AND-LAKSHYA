@@ -1,7 +1,7 @@
 # WEB-TECH-PROJECT-BY-KARTIKEYA-AND-LAKSHYA
 # My Portfolio Website 🌐
 
-This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.
+This is my personal portfolio website built using **HTML**, **CSS**.
 
 ## 🔧 Features
 - Responsive design
