@@ -10,6 +10,8 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 - Modern UI and animations
 
 ## 🚀 How to View
-Visit my portfolio live at: [https://yourusername.github.io/portfolio-website](https://yourusername.github.io/portfolio-website)
+Visit my portfolio live at: [https://ckartikeya29-dotcom.github.io/portfolio-website/](https://ckartikeya29-dotcom.github.io/portfolio-website/)
+
+
 
 ## 📂 Folder Structure
