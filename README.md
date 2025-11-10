@@ -14,4 +14,3 @@ Visit my portfolio live at: [https://ckartikeya29-dotcom.github.io/portfolio-web
 
 
 
-## 📂 Folder Structure
